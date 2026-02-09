@@ -1,0 +1,21 @@
+================================================================
+THANK YOU FOR INSTALLING ASSET MANAGEMENT SYSTEM
+================================================================
+
+This project was built with .NET 8 and WPF by Havilz.
+
+----------------------------------------------------------------
+STAY CONNECTED
+----------------------------------------------------------------
+
+Check out my other projects on GitHub:
+https://github.com/havilz
+
+If you like this project, please give it a Star! ⭐
+
+----------------------------------------------------------------
+SUPPORT
+----------------------------------------------------------------
+
+For bugs or feature requests, purely for educational purposes.
+Happy Coding!
